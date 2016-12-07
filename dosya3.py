@@ -177,7 +177,7 @@ if __name__ == '__main__':
     if droid:
         d = '/sdcard/'
     else:
-        d = '/src/defrinex/'
+        d = '~/src/defrinex/defrinex/defrinex/defrinex'
         #http://r8j4ym.alld.io/dl/wmxyu4d497/icerde09720pwebdlx264.rar
 
     if not os.path.isdir(d):
